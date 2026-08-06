@@ -20,5 +20,5 @@ An end-to-end Machine Intelligence project designed to predict and classify Air 
 
 ```text
 ├── ML_Project.ipynb        # Core Jupyter Notebook (EDA, SMOTE, Training, Stacking Pipeline)
-├── AQC.pdf  # Compiled IEEE-format research paper
+├── AQC.pdf                 # Compiled IEEE-format research paper
 └── README.md               # Project documentation
